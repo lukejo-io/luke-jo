@@ -28,7 +28,7 @@ const Home: NextPage = () => {
           <a href="https://github.com/lukejo-io" className={styles.card}>
             <h2>GitHub &rarr;</h2>
             <p>
-              See some of my code first-hand. It's mostly just old school
+              See some of my code first-hand. It&apos;s mostly just old school
               projects and personal websites.
             </p>
           </a>
