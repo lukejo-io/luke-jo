@@ -20,7 +20,8 @@ const Home: NextPage = () => {
           <a href="/resume.pdf" className={styles.card}>
             <h2>Resumé &rarr;</h2>
             <p>
-              Check out my resume and see if I'd be a good fit for your team.
+              Check out my resume and see if I&apos;d be a good fit for your
+              team.
             </p>
           </a>
 
@@ -40,8 +41,8 @@ const Home: NextPage = () => {
           >
             <h2>LinkedIn &rarr;</h2>
             <p>
-              Let's connect and we can see how I can help you accomplish your
-              goals.
+              Let&apos;s connect and we can see how I can help you accomplish
+              your goals.
             </p>
           </a>
         </div>
