@@ -33,7 +33,7 @@ const Home: NextPage = () => {
             </p>
           </a>
 
-          <a href="https://twitter.com/lukejo_io" className={styles.card}>
+          <a href="" className={styles.card}>
             <h2>Twitter &rarr;</h2>
             <p>Follow me on Twitter and find out what I like talking about.</p>
           </a>
